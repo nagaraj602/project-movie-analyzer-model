@@ -23,7 +23,7 @@ This repository contains the AI/ML NLP microservice for the **Movie Analyzer Pla
 
 ## 🚀 Port & Networking Architecture
 
-To avoid standard port conflicts (such as default 5000, 8080, 3000), this service is configured to run on non-standard port **`7380`**:
+This service is configured to run on port **`7380`**:
 
 | Setting | Default Value | Description |
 | :--- | :--- | :--- |
